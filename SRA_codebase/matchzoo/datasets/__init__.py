@@ -3,6 +3,7 @@ from . import wiki_qa
 from . import embeddings
 from . import snli
 from . import quora_qp
+from . import scientsbank
 from pathlib import Path
 
 
