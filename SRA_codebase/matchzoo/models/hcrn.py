@@ -227,7 +227,7 @@ class HCRN(BaseModel):
         sorted_length, permutation_index = length.sort(0, descending=True)
         sorted_input = input.index_select(0, permutation_index)
         packed_input = pack_padded_sequence(
-            sorted_input, sorted_length, batch_first=True)
+            sorted_input, sorted_length.cpu(), batch_first=True)
 
         packed_output, _ = self.lstm(packed_input)
         unpacked_output, _ = pad_packed_sequence(packed_output, batch_first=True)
