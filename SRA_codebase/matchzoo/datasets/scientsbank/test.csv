@@ -1,4 +1,4 @@
-,ref_ans_id,referenceAnswer,stu_ans_id_new,studentAnswer,accuracy
+,id_left,text_left,id_right,text_right,label
 4000,refAns_109,Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.,stuAns_109_0,Why I chose the dark green sheeting was because the darker color absorbs heat.,correct
 4001,refAns_109,Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.,stuAns_109_1,It is darker and it will probably heat faster.,incorrect
 4002,refAns_109,Darker colors absorb more heat than lighter colors. The dark green sheeting is the darkest color available so she should use the green sheeting.,stuAns_109_2,Because dark green is a dark color like black that way dark green absorbs more heat.,correct
@@ -604,7 +604,7 @@
 4602,refAns_125,"The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.",stuAns_125_35,The shorter the string the more swings the longer the string the less the swings.,correct
 4603,refAns_125,"The shorter the string is, the more the string swings in 15 seconds.  The longer the string is, the less the string swings in 15 seconds.",stuAns_125_36,The longer the string the less swings The shorter the string the more swings.,correct
 4604,refAns_126,The boat with 0 marbles is the standard in this experiment.,stuAns_126_0,A 2 boat.,incorrect
-4605,refAns_126,The boat with 0 marbles is the standard in this experiment.,stuAns_126_1,3.,incorrect
+4605,refAns_126,The boat with 0 marbles is the standard in this experiment.,stuAns_126_1,3,incorrect
 4606,refAns_126,The boat with 0 marbles is the standard in this experiment.,stuAns_126_2,To is boat.,incorrect
 4607,refAns_126,The boat with 0 marbles is the standard in this experiment.,stuAns_126_3,Going up 5 marbles each time he put them in.,incorrect
 4608,refAns_126,The boat with 0 marbles is the standard in this experiment.,stuAns_126_4,56.1 equals average.,incorrect

@@ -1,4 +1,4 @@
-,ref_ans_id,referenceAnswer,stu_ans_id_new,studentAnswer,accuracy
+,id_left,text_left,id_right,text_right,label
 3000,refAns_84,The mixtures are all clear.,stuAns_84_34,He does not have an idea that island make a salt outline.,incorrect
 3001,refAns_85,The concentrations are the same because both mixtures are saturated.,stuAns_85_0,Greater than because mixture 5 has the same amount of water with more spoons of solid.,incorrect
 3002,refAns_85,The concentrations are the same because both mixtures are saturated.,stuAns_85_1,Greater than because it have 5 spoon of clear material.,incorrect

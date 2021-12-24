@@ -1,4 +1,4 @@
-,ref_ans_id,referenceAnswer,stu_ans_id_new,studentAnswer,accuracy
+,id_left,text_left,id_right,text_right,label
 0,refAns_0,"The water was evaporated, leaving the salt.",stuAns_0_0,By letting it sit in a dish for a day.,incorrect
 1,refAns_0,"The water was evaporated, leaving the salt.",stuAns_0_1,Let the water evaporate and the salt is left behind.,correct
 2,refAns_0,"The water was evaporated, leaving the salt.",stuAns_0_2,The water evaporated and left salt crystals.,correct
