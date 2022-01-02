@@ -1,1 +1,1 @@
-This is README file and yet to be updated!
+This README file is yet to be updated!
