@@ -1,5 +1,5 @@
 ************************
-MatchZoo Model Reference
+Model Reference
 ************************
 
 HCRN
